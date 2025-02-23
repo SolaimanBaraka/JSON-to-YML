@@ -1,0 +1,18 @@
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\JSON a YML.exe
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\JSON a YML.deps.json
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\JSON a YML.runtimeconfig.json
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\JSON a YML.dll
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\JSON a YML.pdb
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.csproj.AssemblyReference.cache
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.AssemblyInfoInputs.cache
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.AssemblyInfo.cs
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.csproj.CoreCompileInputs.cache
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.csproj.Up2Date
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.dll
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\refint\JSON a YML.dll
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.pdb
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\JSON a YML.genruntimeconfig.cache
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\obj\Debug\net8.0\ref\JSON a YML.dll
+C:\Users\Solaiman Baraka\Desktop\JSON a YML\JSON a YML\bin\Debug\net8.0\Newtonsoft.Json.dll
